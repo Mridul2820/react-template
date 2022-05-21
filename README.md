@@ -16,11 +16,11 @@
 - **With YARN**
 
 ```bash
-yarn create-react-app -e https://github.com/Mridul2820/react-template
+yarn create-react-app . -e https://github.com/Mridul2820/react-template
 ```
 
 - **WIth NPM**
 
 ```
-npx create-react-app -e https://github.com/Mridul2820/react-template
+npx create-react-app . -e https://github.com/Mridul2820/react-template
 ```
